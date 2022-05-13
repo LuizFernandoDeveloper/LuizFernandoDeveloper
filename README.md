@@ -50,16 +50,14 @@
   <a href = "mailto:luiz.fernando.developer@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernando-rodrigues-a4140b239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
- 
-</div >
+</div>
 
- <div >
-  <br> <br>
+ <div>
+  <br>
   <p> Alguns projetos prontos para serem visualizados <p>
   <ul >
     <li><a href="https://criticizeyourfilms.netlify.app" target="_blank">Criticize your Films </a></li>
-    <li><a href="https://macrotec.ind.br/" target="_blank">bj57-em execução</a></li>
+    <li><a href="" target="_blank">em execução</a></li>
  </ul>
   
  </div>
