@@ -52,4 +52,15 @@
  
   
  
-</div>
+</div >
+
+ <div >
+  <br> <br>
+  <p> Alguns projetos prontos para serem visualizados <p>
+  <ul >
+    <li><a href="https://criticizeyourfilms.netlify.app" target="_blank">Criticize your Films </a></li>
+    <li><a href="https://macrotec.ind.br/" target="_blank">bj57-em execução</a></li>
+ </ul>
+  
+ </div>
+ 
