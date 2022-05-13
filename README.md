@@ -6,7 +6,7 @@
 <div>
  <p> Minha historia,até aqui: </p>
  <p>  No ano de 2019 fiz meu primeiro grande curso na área de tecnologia que foi o curso técnico em mecatrônica no Senai Betim  onde tive contato com programação embarcada de CLP’s , Arduino, Microcontroladores  e robôs. No final do  curso técnico desenvolvi uma chocadeira desde o hardware, software, elétrica pesada e mecânica. Tal chocadeira se encontra <a href = "https://www.linkedin.com/posts/luiz-fernando-rodrigues-24bb01167_solidworks-mecatraeknica-mecanica-activity-6717535269161197568-We6f?utm_source=linkedin_share&utm_medium=member_desktop_web"> aqui. </a> </p>
-<p>  Com o tempo, fui criando um amor pela programação e por isso hoje estou em busca de me tornar um  excelente desenvolvedor de software, assim sendo comecei cursar Ciência da computação na estácio e  em paralelo estou cursado na EBAC o curso de Desenvolvedor Full Stack Java   e na Hackersec  estou para para me tornar um desenvolvedor com bons conhecimentos de cibersegurança. <p>
+<p>  Com o tempo, fui criando um amor pela programação e por isso hoje estou em busca de me tornar um  excelente desenvolvedor de software, assim sendo comecei cursar Ciência da computação na estácio e  em paralelo estou cursado na EBAC o curso de Desenvolvedor Full Stack Java   e na Hackersec  estou  para me tornar um desenvolvedor de software com bons conhecimentos de cibersegurança.<p>
   <p>Experiencia proficional:</p>
   <ul>
     <li>CLT Projetista mecatrônico</li>
