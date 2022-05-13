@@ -1,5 +1,21 @@
+
 ## Olá, meu nome é Luiz Fernando Rodrigues sou criador de conteudo de tecnologia e programador!
 
+ 
+
+<div>
+ <p> Minha historia,até aqui: </p>
+ <p>  No ano de 2019 fiz meu primeiro grande curso na área de tecnologia que foi o curso técnico em mecatrônica no Senai Betim  onde tive contato com programação embarcada de CLP’s , Arduino, Microcontroladores  e robôs. No final do  curso técnico desenvolvi uma chocadeira desde o hardware, software, elétrica pesada e mecânica. Tal chocadeira se encontra <a href = "https://www.linkedin.com/posts/luiz-fernando-rodrigues-24bb01167_solidworks-mecatraeknica-mecanica-activity-6717535269161197568-We6f?utm_source=linkedin_share&utm_medium=member_desktop_web"> aqui. </a> </p>
+<p>  Com o tempo, fui criando um amor pela programação e por isso hoje estou em busca de me tornar um  excelente desenvolvedor de software, assim sendo comecei cursar Ciência da computação na estácio e  em paralelo estou cursado na EBAC o curso de Desenvolvedor Full Stack Java   e na Hackersec  estou para para me tornar um desenvolvedor com bons conhecimentos de cibersegurança. <p>
+  <p>Experiencia proficional:</p>
+  <ul>
+    <li>CLT Projetista mecatrônico</li>
+    <li>Estágio de projetos elétricos e mecânicos na <a href="https://macrotec.ind.br/" target="_blank">Ramtech/Macrotec</a></li>
+  </ul>
+
+</div>
+
+##
 <div align="center">
   <a href="https://github.com/LuizFernandoDeveloper">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizFernandoDeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -17,8 +33,12 @@
     <img align="center" alt="go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
     <img align="center" alt="shell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
     <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-   
-
+    <img align="center" alt="Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
+    <img align="center" alt="Embedded" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original-wordmark.svg">
+    <img align="center" alt="Matlabd" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+    <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
+    <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
+    <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 </div>
   
   ##
