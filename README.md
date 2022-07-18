@@ -58,7 +58,7 @@
   <p> Alguns projetos prontos para serem visualizados <p>
   <ul >
     <li><a href="https://criticizeyourfilms.netlify.app" target="_blank">Criticize your Films </a></li>
-    <li><a href="" target="_blank">em execução</a></li>
+    <li><a href="https://gometas.netlify.app/" target="_blank">GoMetas</a></li>
  </ul>
   
  </div>
