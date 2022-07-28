@@ -59,7 +59,8 @@
   <ul>
     <li><a href="https://github.com/LuizFernandoDeveloper/Criticize-your-Films" target="_blank">Criticize your Films </a></li>
     <li><a href="https://github.com/LuizFernandoDeveloper/goMetas/tree/main" target="_blank">GoMetas</a></li>
-     <li><a href="https://github.com/LuizFernandoDeveloper/Game-fly-swatter" target="_blank">Game Fly Swatter</a></li>
+    <li><a href="https://github.com/LuizFernandoDeveloper/Game-fly-swatter" target="_blank">Game Fly Swatter</a></li>
+    <li><a href="https://github.com/LuizFernandoDeveloper/E-commerce-VerdeUrbano" target="_blank">E-commerce Verde Urbano</a></li>
  </ul>
   
  </div>
