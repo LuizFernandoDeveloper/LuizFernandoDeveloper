@@ -58,7 +58,7 @@
   <p> Alguns projetos prontos para serem visualizados <p>
   <ul>
     <li><a href="https://github.com/LuizFernandoDeveloper/Criticize-your-Films" target="_blank">Criticize your Films </a></li>
-    <li><a href="https://gometas.netlify.app/" target="_blank">GoMetas</a></li>
+    <li><a href="https://github.com/LuizFernandoDeveloper/goMetas/tree/main" target="_blank">GoMetas</a></li>
      <li><a href="https://github.com/LuizFernandoDeveloper/Game-fly-swatter" target="_blank">Game Fly Swatter</a></li>
  </ul>
   
