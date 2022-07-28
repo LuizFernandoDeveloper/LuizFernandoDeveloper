@@ -56,9 +56,10 @@
  <div>
   <br>
   <p> Alguns projetos prontos para serem visualizados <p>
-  <ul >
+  <ul>
     <li><a href="https://criticizeyourfilms.netlify.app" target="_blank">Criticize your Films </a></li>
     <li><a href="https://gometas.netlify.app/" target="_blank">GoMetas</a></li>
+     <li><a href="http://gameflyswatter.rf.gd/index.html" target="_blank">Game Fly Swatter</a></li>
  </ul>
   
  </div>
