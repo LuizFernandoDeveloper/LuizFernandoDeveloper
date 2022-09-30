@@ -56,9 +56,9 @@
 
  ## Alguns projetos prontos para serem visualizados 
 
-|                                         Portifolio web                                              |                           Potifolio Cibersegurança                                     | Portifolio Software Embarcados  |
-|-----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|---------------------------------|
-| 1. [Criticize your films](https://github.com/LuizFernandoDeveloper/Criticize-your-Films)            | 1. [Ransomware simples com python](https://github.com/LuizFernandoDeveloper/Ransomware)| 1. [Embede]()                   |
-| 2. [GoMetas](https://github.com/LuizFernandoDeveloper/goMetas/tree/main)                            | 2. -                                                                                   | 2. -                            |
-| 3. [E-commerce Verde Urbano](https://github.com/LuizFernandoDeveloper/E-commerce-VerdeUrbano)       | 3. -                                                                                   | 3. -                            | 
-| 4. [E-commerce Savante 42](https://github.com/LuizFernandoDeveloper/savante42-E.commerce/tree/main) | 4. -                                                                                   | 4. -                            |  
+|                                         Portifolio web                                              |                           Potifolio Cibersegurança                                              | Portifolio Software Embarcados  |Outros Portifolio                |
+|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|---------------------------------|---------------------------------|
+| 1. [Criticize your films](https://github.com/LuizFernandoDeveloper/Criticize-your-Films)            | 1. [Ransomware simples com python](https://github.com/LuizFernandoDeveloper/Ransomware)         | 1. -                            | 1. -                            |
+| 2. [GoMetas](https://github.com/LuizFernandoDeveloper/goMetas/tree/main)                            | 2. [Scan de portas em python](https://github.com/LuizFernandoDeveloper/scan-de-portas-simples)  | 2. -                            | 2. -                            |
+| 3. [E-commerce Verde Urbano](https://github.com/LuizFernandoDeveloper/E-commerce-VerdeUrbano)       | 3. [Shell e PHP](https://github.com/LuizFernandoDeveloper/Shell-And-PHP)                        | 3. -                            | 3. -                            | 
+| 4. [E-commerce Savante 42](https://github.com/LuizFernandoDeveloper/savante42-E.commerce/tree/main) | 4. -                                                                                            | 4. -                            | 4. -                            |   
