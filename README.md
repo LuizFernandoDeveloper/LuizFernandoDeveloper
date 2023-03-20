@@ -15,6 +15,9 @@
 </div>
  
  #
+
+<center>
+
  ### Tecnologias Fullstack que quero trabalhar: 
  
 <div style="display: inline_block"><br>
@@ -28,6 +31,8 @@
 </div>
  
 #
+
+
 ### Tecnologias Frontend que quero trabalhar: 
  
 <div style="display: inline_block"><br>
@@ -37,7 +42,8 @@
     <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
     <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
- 
+
+
 #
 ### Tecnologias Backend que quero trabalhar: 
  
@@ -58,7 +64,12 @@
 </div>
 
 
+ </center>
+
  ## Alguns projetos prontos para serem visualizados:
+
+<center>
+
 
 |                                         Portifolio web                                                         |                           Potifolio Cibersegurança                                                                | Portifolio Desevolvimento Mobile             |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
@@ -73,3 +84,23 @@
 | 10. [App All motors jquery](https://github.com/LuizFernandoDeveloper/all-motors)                               | 10. -                                                                                                             | 10. -                                        | 
 | 11. [App Restaurante com Bootstrap](https://github.com/LuizFernandoDeveloper/App_Restaurante)                  | 11. -                                                                                                             | 11. -                                        |   
 | 12. [API produtos "RESTFULL"](https://github.com/LuizFernandoDeveloper/API-Spring-simples)                     | 12. -                                                                                                             | 12. -                                        |   
+
+|                                         Portifolio Academico                                                   |                           Potifolio Embarcados                                                                    |              Portifolio Robotica             |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
+| 1. -                                                                                                           | 1. -                                                                                                              | 1. -                                         | 
+| 2. -                                                                                                           | 2. -                                                                                                              | 2. -                                         | 
+| 3. -                                                                                                           | 3. -                                                                                                              | 3. -                                         | 
+| 4. -                                                                                                           | 4. -                                                                                                              | 4. -                                         |   
+| 5. -                                                                                                           | 5. -                                                                                                              | 5. -                                         | 
+| 6. -                                                                                                           | 6. -                                                                                                              | 6. -                                         |   
+| 8. -                                                                                                           | 8. -                                                                                                              | 8. -                                         |   
+| 9. -                                                                                                           | 9. -                                                                                                              | 9. -                                         |    
+| 10. -                                                                                                          | 10. -                                                                                                             | 10. -                                        | 
+| 11. -                                                                                                          | 11. -                                                                                                             | 11. -                                        |   
+| 12. -                                                                                                          | 12. -                                                                                                             | 12. -                                        |   
+
+
+
+
+</center>
+
