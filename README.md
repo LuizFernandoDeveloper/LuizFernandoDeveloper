@@ -16,7 +16,7 @@
  
  #
 
-<center>
+
 
  ### Tecnologias Fullstack que quero trabalhar: 
  
@@ -64,28 +64,64 @@
 </div>
 
 
- </center>
+
 
  ## Alguns projetos prontos para serem visualizados:
 
-<center>
+
+### Portifolio WEB
+
+|                                         Portifolio Frontend                                                    |                           Potifolio Fullstack                                                                     |                               Portifolio  Backend                                        |
+|----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| 1. [App Restaurante com Bootstrap](https://github.com/LuizFernandoDeveloper/App_Restaurante)                   | 1. [Criticize your films](https://github.com/LuizFernandoDeveloper/Criticize-your-Films)                          | 1. [API produtos "RESTFULL"](https://github.com/LuizFernandoDeveloper/API-Spring-simples)| 
+| 2. [App All motors jquery](https://github.com/LuizFernandoDeveloper/all-motors)                                | 2. [GoMetas](https://github.com/LuizFernandoDeveloper/goMetas/tree/main)                                          | 2. -                                                                                     | 
+| 3. [Lista de Tarefas com jquery](https://github.com/LuizFernandoDeveloper/Lista_de_tarefas/)                   | 3. [E-commerce Verde Urbano](https://github.com/LuizFernandoDeveloper/E-commerce-VerdeUrbano)                     | 3. -                                                                                     | 
+| 4. [Galeria de Fotos com jquery](https://github.com/LuizFernandoDeveloper/Galeria_de_fotos/blob/main/README.md)| 4. [E-commerce Savante 42](https://github.com/LuizFernandoDeveloper/savante42-E.commerce/tree/main)               | 4. -                                                                                     |   
+| 5. [Game Shop](https://github.com/LuizFernandoDeveloper/games_shop)                                            | 5.                                                                                                                | 5. -                                                                                     | 
+| 6. [Game fly swatter](https://github.com/LuizFernandoDeveloper/Game-fly-swatter)                               | 6.                                                                                                                | 6. -                                                                                     |   
+| 8.                                                                                                             | 8. -                                                                                                              | 8. -                                                                                     |   
+| 9.                                                                                                             | 9. -                                                                                                              | 9. -                                                                                     |    
+| 10.                                                                                                            | 10. -                                                                                                             | 10. -                                                                                    | 
+| 11.                                                                                                            | 11. -                                                                                                             | 11. -                                                                                    |   
+| 12.                                                                                                            | 12. -                                                                                                             | 12. -                                                                                    |   
 
 
-|                                         Portifolio web                                                         |                           Potifolio Cibersegurança                                                                | Portifolio Desevolvimento Mobile             |
+## Portifolio Mobile
+
+|                                         Portifolio Mobile com java e Andoide estudio                           |                           Potifolio Mobile com Angular e native Script                                            |         Portifolio Mobile  com react native  |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| 1. [Criticize your films](https://github.com/LuizFernandoDeveloper/Criticize-your-Films)                       | 1. [Ransomware simples com python](https://github.com/LuizFernandoDeveloper/Ransomware)                           | 1. -                                         | 
-| 2. [GoMetas](https://github.com/LuizFernandoDeveloper/goMetas/tree/main)                                       | 2. [Scan de portas em python](https://github.com/LuizFernandoDeveloper/scan-de-portas-simples)                    | 2. -                                         | 
-| 3. [E-commerce Verde Urbano](https://github.com/LuizFernandoDeveloper/E-commerce-VerdeUrbano)                  | 3. [Shell e PHP](https://github.com/LuizFernandoDeveloper/Shell-And-PHP)                                          | 3. -                                         | 
-| 4. [E-commerce Savante 42](https://github.com/LuizFernandoDeveloper/savante42-E.commerce/tree/main)            | 4. [Brute force simples](https://github.com/LuizFernandoDeveloper/Brute-force-simples.git)                        | 4. -                                         |   
-| 5. [Game Shop](https://github.com/LuizFernandoDeveloper/games_shop)                                            | 5. [Scanner SQL injection simples](https://github.com/LuizFernandoDeveloper/Scanner-de-SQL-injection-simples-.git)| 5. -                                         | 
-| 6. [Game fly swatter](https://github.com/LuizFernandoDeveloper/Game-fly-swatter)                               | 6. [scanner xss](https://github.com/LuizFernandoDeveloper/scanner_para_xss)                                       | 6. -                                         |   
-| 8. [Galeria de Fotos com jquery](https://github.com/LuizFernandoDeveloper/Galeria_de_fotos/blob/main/README.md)| 8. -                                                                                                              | 8. -                                         |   
-| 9. [Lista de Tarefas com jquery](https://github.com/LuizFernandoDeveloper/Lista_de_tarefas/)                   | 9. -                                                                                                              | 9. -                                         |    
-| 10. [App All motors jquery](https://github.com/LuizFernandoDeveloper/all-motors)                               | 10. -                                                                                                             | 10. -                                        | 
-| 11. [App Restaurante com Bootstrap](https://github.com/LuizFernandoDeveloper/App_Restaurante)                  | 11. -                                                                                                             | 11. -                                        |   
-| 12. [API produtos "RESTFULL"](https://github.com/LuizFernandoDeveloper/API-Spring-simples)                     | 12. -                                                                                                             | 12. -                                        |   
+| 1. -                                                                                                           | 1. -                                                                                                              | 1. -                                         | 
+| 2. -                                                                                                           | 2. -                                                                                                              | 2. -                                         | 
+| 3. -                                                                                                           | 3. -                                                                                                              | 3. -                                         | 
+| 4. -                                                                                                           | 4. -                                                                                                              | 4. -                                         |   
+| 5. -                                                                                                           | 5. -                                                                                                              | 5. -                                         | 
+| 6. -                                                                                                           | 6. -                                                                                                              | 6. -                                         |   
+| 8. -                                                                                                           | 8. -                                                                                                              | 8. -                                         |   
+| 9. -                                                                                                           | 9. -                                                                                                              | 9. -                                         |    
+| 10. -                                                                                                          | 10. -                                                                                                             | 10. -                                        | 
+| 11. -                                                                                                          | 11. -                                                                                                             | 11. -                                        |   
+| 12. -                                                                                                          | 12. -                                                                                                             | 12. -                                        | 
 
-|                                         Portifolio Academico                                                   |                           Potifolio Embarcados                                                                    |              Portifolio Robotica             |
+### Portifolio Cibersegurança
+
+|                           Potifolio Cibersegurança                                                                |
+|-------------------------------------------------------------------------------------------------------------------|
+| 1. [Ransomware simples com python](https://github.com/LuizFernandoDeveloper/Ransomware)                           | 
+| 2. [Scan de portas em python](https://github.com/LuizFernandoDeveloper/scan-de-portas-simples)                    |  
+| 3. [Shell e PHP](https://github.com/LuizFernandoDeveloper/Shell-And-PHP)                                          | 
+| 4. [Brute force simples](https://github.com/LuizFernandoDeveloper/Brute-force-simples.git)                        |   
+| 5. [Scanner SQL injection simples](https://github.com/LuizFernandoDeveloper/Scanner-de-SQL-injection-simples-.git)| 
+| 6. [scanner xss](https://github.com/LuizFernandoDeveloper/scanner_para_xss)                                       |
+| 8. -                                                                                                              |  
+| 9. -                                                                                                              |   
+| 10. -                                                                                                             | 
+| 11. -                                                                                                             |  
+| 12. -                                                                                                             | 
+
+
+## Portifolio Academico
+
+|                                         Portifolio Algoritmos                                                  |                           Potifolio Algoritmo e estrutura de dados                                                |              Portifolio  xxxx                |
 |----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
 | 1. -                                                                                                           | 1. -                                                                                                              | 1. -                                         | 
 | 2. -                                                                                                           | 2. -                                                                                                              | 2. -                                         | 
@@ -102,5 +138,5 @@
 
 
 
-</center>
+
 
