@@ -33,7 +33,7 @@
 
 ### Portifolio WEB
 
-|                                         Portifolio Frontend                                                                                              |                           Portifolio Fullstack  | typescript, React, java, spring                                                                   |                               Portifolio  Backend                                        |
+|                                         Portifolio Frontend                                                                                              |                           Portifolio Fullstack  / typescript, React, java, spring                                                                   |                               Portifolio  Backend                                        |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 | 1. [App Restaurante com Bootstrap](https://github.com/LuizFernandoDeveloper/App_Restaurante)                                                             | 1. [Criticize your films](https://github.com/LuizFernandoDeveloper/Criticize-your-Films)                                                            | 1. [API produtos "RESTFULL"](https://github.com/LuizFernandoDeveloper/API-Spring-simples)| 
 | 2. [App All motors jquery](https://github.com/LuizFernandoDeveloper/all-motors)                                                                          | 2. [GoMetas | React](https://github.com/LuizFernandoDeveloper/goMetas/tree/main)                                                                    | 2. -                                                                                     | 
@@ -51,7 +51,7 @@
 
 #
 
-|                           Potifolio Cibersegurança                                                                |                          Portifolio FullStack | Typescript , Angular, Sass, Java , Spring                                           |
+|                           Portifolio Cibersegurança                                                               |                          Portifolio FullStack / Typescript , Angular, Sass, Java , Spring                                           |
 |-------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 | 1. [Ransomware simples com python](https://github.com/LuizFernandoDeveloper/Ransomware)                           | 1. [E-commerce Savante 42 - Loja de MAquinas de automação](https://github.com/LuizFernandoDeveloper/savante42-E.commerce/tree/main) |
 | 2. [Scan de portas em python](https://github.com/LuizFernandoDeveloper/scan-de-portas-simples)                    | 2.                                                                                                                                  |
